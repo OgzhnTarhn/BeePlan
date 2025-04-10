@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeePlan/BeePlan.iml" filepath="$PROJECT_DIR$/BeePlan/BeePlan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seng271 Project.iml" filepath="$PROJECT_DIR$/Seng271 Project.iml" />
     </modules>
   </component>
